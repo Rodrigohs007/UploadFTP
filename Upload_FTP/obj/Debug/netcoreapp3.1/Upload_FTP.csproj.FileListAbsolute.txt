@@ -1,0 +1,16 @@
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.csproj.AssemblyReference.cache
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.Form1.resources
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.csproj.GenerateResource.cache
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.AssemblyInfoInputs.cache
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.AssemblyInfo.cs
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.csproj.CoreCompileInputs.cache
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\bin\Debug\netcoreapp3.1\Upload_FTP.exe
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\bin\Debug\netcoreapp3.1\Upload_FTP.deps.json
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\bin\Debug\netcoreapp3.1\Upload_FTP.runtimeconfig.json
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\bin\Debug\netcoreapp3.1\Upload_FTP.runtimeconfig.dev.json
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\bin\Debug\netcoreapp3.1\Upload_FTP.dll
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\bin\Debug\netcoreapp3.1\Upload_FTP.pdb
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.dll
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.pdb
+G:\GitHub\C#\QRCode\Upload_FTP\Upload_FTP\obj\Debug\netcoreapp3.1\Upload_FTP.genruntimeconfig.cache
